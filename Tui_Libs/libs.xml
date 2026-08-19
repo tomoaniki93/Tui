@@ -1,0 +1,4 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+    <!-- Third-party libraries will be moved here during the TomoMod -> Tui migration. -->
+    <!-- The profile codec already has a pure-Lua fallback; LibDeflate is used automatically when available. -->
+</Ui>

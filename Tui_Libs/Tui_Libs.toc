@@ -1,0 +1,7 @@
+## Interface: 120100
+## Title: |cff20A9FFTui|r Libraries
+## Notes: Shared libraries for Tui and Tui modules.
+## Author: TomoAniki
+## Version: 0.1.0-P1
+
+libs.xml

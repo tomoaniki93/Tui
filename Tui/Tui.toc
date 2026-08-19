@@ -1,0 +1,28 @@
+## Interface: 120100
+## Title: |cff20A9FFTui|r
+## Notes: Modern modular UI framework for World of Warcraft Midnight.
+## Notes-frFR: Interface modulaire moderne pour World of Warcraft Midnight.
+## Author: TomoAniki
+## Version: 0.1.0-P1
+## SavedVariables: TuiDB
+## Dependencies: Tui_Libs
+
+Core\Bootstrap.lua
+Core\Constants.lua
+Core\Utils\Table.lua
+Core\Database\Defaults.lua
+Core\Database\Database.lua
+Core\Modules\Registry.lua
+Core\Modules\DependencyManager.lua
+Core\Profiles\PresetRegistry.lua
+Core\Profiles\BuiltinPresets.lua
+Core\Profiles\Codec.lua
+Core\Profiles\ImportExport.lua
+Core\Profiles\ProfileManager.lua
+Core\Display\StateTracker.lua
+Core\Display\DisplayGuard.lua
+Core\Display\DisplayQueue.lua
+Core\Init.lua
+Core\SlashCommands.lua
+Modules\Framework\Framework.lua
+Modules\Interface\Shared\Shared.lua

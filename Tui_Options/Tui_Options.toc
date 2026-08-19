@@ -1,0 +1,16 @@
+## Interface: 120100
+## Title: |cff20A9FFTui|r |cff58C4FFOptions|r
+## Notes: Azure Dark configuration interface for Tui.
+## Author: TomoAniki
+## Version: 0.1.0-P1
+## LoadOnDemand: 1
+## Dependencies: Tui
+
+Config\Theme.lua
+Config\Widgets.lua
+Config\Panels\Dashboard.lua
+Config\Panels\Profiles.lua
+Config\Panels\Modules.lua
+Config\Panels\Presets.lua
+Config\Panels\Installer.lua
+Config\ConfigUI.lua

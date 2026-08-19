@@ -1,0 +1,8 @@
+## Interface: 120100
+## Title: |cff20A9FFTui|r Quality of Life
+## Notes: Quality of Life module for Tui.
+## Author: TomoAniki
+## Version: 0.1.0-P1
+## Dependencies: Tui
+
+Qol\Init.lua
